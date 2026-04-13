@@ -1,4 +1,4 @@
-# 🧠 skill-skill: 把AI对话里的工作流，蒸馏成你的个人能力资产
+# 🧠 skill-skill: 打造你的个人skill库
 
 <div align="center">
 
