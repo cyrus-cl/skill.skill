@@ -5,7 +5,7 @@
 **✨ 面向高频AI协作用户的对话蒸馏与技能沉淀系统 ✨**
 
 <div align="center">
-  <img src="./image.png" alt="skill.skill 星空技能树宣传图" width="100%" />
+  <img src="./skill.skill/image.png" alt="skill.skill 星空技能树宣传图" width="100%" />
   <p>✨ 让每一次 AI 协作，都沉淀为你的个人技能资产 ✨</p>
 </div>
 
